@@ -1,6 +1,6 @@
 # Name of Streamlit App
 
-Description of the app ...
+Beer ML 
 
 ## Demo App
 
